@@ -1,0 +1,42 @@
+[
+  {
+    "file_name": "AdventureWorks_Calendar.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Calendar.csv"
+  },
+  {
+    "file_name": "AdventureWorks_Customers.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Customers.csv"
+  },
+  {
+    "file_name": "AdventureWorks_Product_Categories.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Product_Categories.csv"
+  },
+  {
+    "file_name": "AdventureWorks_Product_Subcategories.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Product_Subcategories.csv"
+  },
+  {
+    "file_name": "AdventureWorks_Products.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Products.csv"
+  },
+  {
+    "file_name": "AdventureWorks_Returns.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Returns.csv"
+  },
+  {
+    "file_name": "AdventureWorks_Sales_2015.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Sales_2015.csv"
+  },
+  {
+    "file_name": "AdventureWorks_Sales_2016.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Sales_2016.csv"
+  },
+  {
+    "file_name": "AdventureWorks_Sales_2017.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Sales_2017.csv"
+  },
+  {
+    "file_name": "AdventureWorks_Territories.csv",
+    "csv_url": "adventure-works/main/AdventureWorks_Territories.csv"
+  }
+]
